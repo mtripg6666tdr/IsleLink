@@ -22,7 +22,8 @@ A lightweight Android utility to open web links from your "Work Profile" directl
 
 1. Build and install the app in **both** the Personal Profile and Work Profile.
 2. Inside your Work Profile, set IsleLink as the default browser (or choose it when clicking links).
-3. Links clicked inside the Work Profile will instantly launch in your Personal Profile browser.
+3. Connect IsleLink apps between Personal Profile and Work profile. Firstly open **Island** settings and make IsleLink connectable each other and then connect them on the system settings.
+4. Links clicked inside the Work Profile will instantly launch in your Personal Profile browser.
 
 ## License
 
