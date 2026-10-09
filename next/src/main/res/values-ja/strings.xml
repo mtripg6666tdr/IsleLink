@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IsleLink Next</string>
+    <string name="failed_to_open">リンクを開けませんでした</string>
+    <string name="how_to_resolve">両プロファイルにインストール・接続されていることを確認してください</string>
+    <string name="using_app_outside_of_work_profile">仕事用プロファイルの外部でこのアプリを使用しています</string>
+</resources>
